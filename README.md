@@ -10,5 +10,6 @@ This reposity contains a simple Java application used for the demonstraition of 
 ## Connect me via
 1. [Facebook](https://www.facebook.com/snowydays2698)
 2. [GitHub](https://github.com/junx182)
+3. [Email](evil.devilsses@gmail.com)
 
-#### ©  2020 by Dungx
+#### ©  2020 by Dungx | FPT University HCMC
