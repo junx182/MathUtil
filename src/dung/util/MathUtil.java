@@ -18,6 +18,8 @@ public class MathUtil {
     //do int chi toi da 2 ty 1, nen ta xai long thi moi chua dc n lon
     //nhung cung chi co 15! thoi
     public static long computeFactorial(int n){
+        if(n < 0 || n > 15)
+            throw new IllegalArgumentException("Invalid argument, n must be >= 0 and <= 15");
         long result = 1;
         for (int i = 1; i <= n; i++) {
             result *= i;
